@@ -1,2 +1,2 @@
-Deeplearning.AI -- TensorFlow Advanced Techniques Specialization
+Deeplearning.AI -- TensorFlow Advanced Techniques Specialization <br>
 Labs and assignments 
